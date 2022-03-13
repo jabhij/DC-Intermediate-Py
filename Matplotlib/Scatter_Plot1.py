@@ -14,4 +14,5 @@ plt.plot(gdp_cap, life_exp)
 plt.xscale('log')
 
 # Show plot
+plt.scatter(gdp_cap, life_exp)
 plt.show()
